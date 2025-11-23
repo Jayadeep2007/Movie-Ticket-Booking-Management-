@@ -1,115 +1,131 @@
-# Movie-Ticket-Booking-Management-
-It helps us to select the movie and let us book the wanted tickets 
-ABSTRACT:
 
-This project is a simple Movie Ticket Booking System written in C. It allows users to view movies, check available seats, book tickets, view booking details, and cancel bookings. The program uses structures, arrays, functions, and basic input/output in C to manage movie data and bookings. It stores seat status, ticket prices, and booking information using in-memory arrays.
 
-FEATURES OF THE PROGRAMME:
+---
 
-Shows a list of movies with time and ticket price
+# **📘 MOVIE TICKET BOOKING SYSTEM –  COURSE PROJECT **
 
-Displays available seats for each movie
+---
 
-Books tickets by checking seat availability
+## **1️⃣ ABSTRACT**
 
-Generates a unique booking ID
+This project is a Movie Ticket Booking System written in C. It allows users to view movies, check seat availability, book tickets, and cancel bookings. The program uses **structures**, **arrays**, and **functions** to store and manage all data during runtime. A unique booking ID and booking time are also generated for each ticket. This project shows how basic C concepts can be used to build a small, working management system with a simple menu interface.
 
-Stores customer name, seat number, movie, and time
+---
 
-Shows all bookings made
+## **2️⃣ FEATURES OF THE PROGRAM**
 
-Cancels a booking and frees the seat
+1. 🎬 **View Movie List** (title, show time, ticket price)
+2. 💺 **Check Available Seats** (20 seats per movie)
+3. 🧾 **Book Tickets** with validation
+4. 🆔 **Auto-generated Booking ID**
+5. 👤 **Stores Customer Details**
+6. 🕒 **Saves Booking Time** using `time.h`
+7. 📄 **View All Bookings**
+8. ❌ **Cancel a Booking** using booking ID
+9. 📌 **Simple Menu System** using `switch` and loops
 
-Simple menu-driven interface using switch and loops
+---
 
-TECHNICAL REQUIREMENTS:
+## **3️⃣ TECHNICAL REQUIREMENTS**
 
-Software used
+### **📌 Software Requirements**
 
-~C Compiler (GCC, MinGW, Code::Blocks, Dev-C++, Turbo C, etc.)
+* Any **C compiler**: GCC, Code::Blocks, Dev-C++, Turbo C, etc.
+* Basic **text editor / IDE**
 
-~Any text editor or IDE that supports C
+### **📌 Header Files Used**
 
-Headers Used
+* `stdio.h` → input/output
+* `stdlib.h` → `exit()`
+* `string.h` → `strcpy`, `strcmp`, `memset`
+* `time.h` → `time()`, `ctime()`
 
-~stdio.h → input/output
+### **📌 Language Used**
 
-~stdlib.h → functions like exit()
+* **ANSI C (Standard C)**
 
-~string.h → strcpy, strcmp, memset
+---
 
-~time.h → booking time using time() and ctime()
+## **4️⃣ FUNCTIONAL REQUIREMENTS**
 
-Language
+### **🔹 FR1: Initialize Movies**
 
-~ANSI C (no external libraries required)
+* Preloads movie titles, timings, prices
+* Sets all 20 seats to available (0)
 
-Functional Requirements
+### **🔹 FR2: View Movies**
 
-FR1 – Initialize Movies
+* Prints movie number, name, time, and price
 
-~Loads all movie titles, show times, empty seats (20 per movie), and ticket prices.
+### **🔹 FR3: Display Seats**
 
-FR2 – View Movies
+* Shows all free seats (those with value 0)
 
-~Displays movie number, title, show time, and price.
+### **🔹 FR4: Book Ticket**
 
-FR3 – Display Seats
+* Takes customer name
+* Validates movie number
+* Validates seat number
+* Marks seat as booked (1)
+* Stores booking details in a structure
 
-~Shows available seat numbers for the selected movie using an integer array.
+### **🔹 FR5: View Bookings**
 
-FR4 – Book Ticket
+* Displays ID, name, movie, time, seat, price, and booking time
 
-~Get name, movie number, and seat number
+### **🔹 FR6: Cancel Booking**
 
-~Validate inputs
+* User enters booking ID
+* System finds booking
+* Frees that seat
+* Removes booking from array
 
-~Mark seat as booked (set seat array value to 1)
+### **🔹 FR7: Exit Program**
 
-~Store booking in a structure with ID, name, movie, time, seat, and price
+* Exits using `exit(0)`
 
-FR5 – View Bookings
+---
 
-~Shows all saved booking records stored in an array.
+## **5️⃣ HOW TO RUN THE PROGRAM**
 
-FR6 – Cancel Booking
+### **✔ Step 1: Save the Program**
 
-~Enter booking ID
+Save your code as:
+`movie_ticket_booking.c`
 
-~Find booking
+### **✔ Step 2: Compile the Program**
 
-~Free that seat in the movie
+Using GCC:
 
-~Remove the booking from the array
-
-FR7 – Exit
-
-~Ends the program using exit(0).
-
-HOW TO RUN THE PROGRAMME:
-
-Save the code as:
-
-movie_ticket_booking.c
-
-Compile using GCC:
-
+```
 gcc movie_ticket_booking.c -o booking
+```
 
-Run the program:
+### **✔ Step 3: Run the Program**
 
+Windows:
+
+```
+booking.exe
+```
+
+Linux/Mac:
+
+```
 ./booking
+```
 
-(Windows: booking.exe)
+### **✔ Step 4: Use the Menu**
 
-Use the menu to:
+You will see:
 
-~View movies
+```
+1. View Movies
+2. Book Ticket
+3. View Bookings
+4. Cancel Booking
+5. Exit
+```
 
-~Book a ticket
+Choose any option and follow the instructions.
 
-~View bookings
-
-~Cancel booking
-
-~Exit
