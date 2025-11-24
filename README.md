@@ -150,7 +150,7 @@ Choose any option and follow the instructions.
 
 5️⃣ Booking Confirmation Screenshot
 
-![image alt](
+![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/sc5.png?raw=true)
 
 6️⃣ Cancel Booking Screenshot
 
