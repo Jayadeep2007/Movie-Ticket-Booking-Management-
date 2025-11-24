@@ -2,7 +2,7 @@
 
 ---
 
-#      📘 MOVIE TICKET BOOKING SYSTEM –  COURSE PROJECT 
+#                      📘 MOVIE TICKET BOOKING SYSTEM –  COURSE PROJECT 
 
 ---
 
