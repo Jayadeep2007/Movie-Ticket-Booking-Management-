@@ -146,18 +146,18 @@ Choose any option and follow the instructions.
 
 4️⃣ Ticket Booking Process Screenshot
 
-![image alt](
+![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/sc4.png?raw=true)
 
 5️⃣ Booking Confirmation Screenshot
 
-![image alt]
+![image alt](
 
 6️⃣ Cancel Booking Screenshot
 
-![image alt]
+![image alt](
 
 7️⃣ Exit Screen Screenshot
 
-![image alt]
+![image alt](
 
 
