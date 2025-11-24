@@ -158,6 +158,6 @@ Choose any option and follow the instructions.
 
 7️⃣ Exit Screen Screenshot
 
-![image alt](
+![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/sc7.png?raw=true)
 
 
