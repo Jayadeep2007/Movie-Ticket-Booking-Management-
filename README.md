@@ -129,3 +129,5 @@ You will see:
 
 Choose any option and follow the instructions.
 
+## SCREENSHOTS ##  
+
