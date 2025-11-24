@@ -132,31 +132,31 @@ Choose any option and follow the instructions.
 ## SCREENSHOTS ## 
 
 
-1️⃣ Project Overview Screenshot
+**1️⃣ Project Overview Screenshot**
 
 ![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/screenshot1.png?raw=true)
 
-2️⃣ Movie List Display Screenshot
+**2️⃣ Movie List Display Screenshot**
 
 ![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/screenshot2.png?raw=true)
 
-3️⃣ Seat Availability Screenshot
+**3️⃣ Seat Availability Screenshot**
 
 ![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/sc3.png?raw=true)
 
-4️⃣ Ticket Booking Process Screenshot
+**4️⃣ Ticket Booking Process Screenshot**
 
 ![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/sc4.png?raw=true)
 
-5️⃣ Booking Confirmation Screenshot
+**5️⃣ Booking Confirmation Screenshot**
 
 ![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/sc5.png?raw=true)
 
-6️⃣ Cancel Booking Screenshot
+**6️⃣ Cancel Booking Screenshot**
 
 ![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/sc6.png?raw=true)
 
-## **7️⃣ Exit Screen Screenshot**
+**7️⃣ Exit Screen Screenshot**
 
 ![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/sc.png?raw=true)
 
