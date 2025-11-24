@@ -138,11 +138,11 @@ Choose any option and follow the instructions.
 
 2️⃣ Movie List Display Screenshot
 
-![image alt](
+![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/screenshot2.png?raw=true)
 
 3️⃣ Seat Availability Screenshot
 
-![image alt]
+![image alt](
 
 4️⃣ Ticket Booking Process Screenshot
 
