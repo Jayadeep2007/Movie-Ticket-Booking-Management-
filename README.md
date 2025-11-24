@@ -154,7 +154,7 @@ Choose any option and follow the instructions.
 
 6️⃣ Cancel Booking Screenshot
 
-![image alt](
+![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/sc6.png?raw=true)
 
 7️⃣ Exit Screen Screenshot
 
