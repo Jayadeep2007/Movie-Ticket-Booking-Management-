@@ -131,5 +131,5 @@ Choose any option and follow the instructions.
 
 ## SCREENSHOTS ## 
 
-![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/3dbd9c3dab19781aaf6a527731f4e31ddfbab0b2/screenshot1.png)
+![image alt]()
 
