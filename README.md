@@ -142,25 +142,22 @@ Choose any option and follow the instructions.
 
 3️⃣ Seat Availability Screenshot
 
-![image alt](
+![image alt](https://github.com/Jayadeep2007/Movie-Ticket-Booking-Management-/blob/main/sc3.png?raw=true)
 
 4️⃣ Ticket Booking Process Screenshot
 
-![image alt]
+![image alt](
 
 5️⃣ Booking Confirmation Screenshot
 
 ![image alt]
 
-6️⃣ View All Bookings Screenshot
+6️⃣ Cancel Booking Screenshot
 
 ![image alt]
 
-7️⃣ Cancel Booking Screenshot
+7️⃣ Exit Screen Screenshot
 
 ![image alt]
 
-8️⃣ Exit Screen Screenshot
-
-![image alt]
 
